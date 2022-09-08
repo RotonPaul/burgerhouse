@@ -1,0 +1,273 @@
+@media (min-width: 300px) and (max-width: 575px) {
+
+    ol,
+    ul {
+        padding-left: 0px !important;
+    }
+
+    .navbar .menu_bar {
+        top: -100%;
+        width: 100%;
+        text-align: center;
+        transition: linear 0.5s;
+        background-color: rgba(245, 230, 164, 0.644);
+    }
+
+    .menu_left {
+        margin-bottom: 20px;
+    }
+
+    .martop {
+        margin-top: 0 !important;
+    }
+
+    .order_text {
+        margin-bottom: 30px;
+    }
+
+    .order_text a {
+        margin-top: 0 !important;
+    }
+
+    .slide_text h2 {
+        margin: 10px 0 !important;
+        font-size: 25px;
+    }
+
+    .slide_text p {
+        font-size: 16px !important;
+        line-height: 25px !important;
+
+    }
+    .order_img img{
+        width: 98% !important;
+        margin-left: 10px !important;
+    }
+    #order .slick-dots {
+        left: 50% !important;
+        bottom: -50px !important;
+    }
+
+    #booking {
+        padding: 0 !important;
+    }
+
+    .reservation_box {
+        padding: 0 60px;
+    }
+
+    .form-control {
+        height: 40px !important;
+    }
+
+    .form_gap {
+        margin-bottom: 16px !important;
+    }
+
+    .find_btn {
+        margin-bottom: 30px;
+    }
+
+    .reservation_title h2 {
+        margin-bottom: 20px !important;
+    }
+
+    .footer_right {
+        text-align: center !important;
+    }
+
+    .footer_left {
+        text-align: center !important;
+        margin-bottom: 30px;
+    }
+
+    .contact_right {
+        margin-top: 60px !important;
+    }
+
+}
+
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 768px) {
+
+    ol,
+    ul {
+        padding-left: 0px !important;
+    }
+
+    .navbar .menu_bar {
+        top: -100%;
+        width: 100%;
+        text-align: center;
+        transition: linear 0.5s;
+        background-color: rgba(245, 230, 164, 0.644);
+    }
+
+    .menu_left {
+        margin-bottom: 20px;
+    }
+
+    .martop {
+        margin-top: 0 !important;
+    }
+
+    .order_text {
+        margin-bottom: 30px;
+    }
+
+    .order_text a {
+        margin-top: 0 !important;
+    }
+
+    .slide_text h2 {
+        margin: 10px 0 !important;
+        font-size: 25px;
+    }
+
+    .slide_text p {
+        font-size: 16px !important;
+        line-height: 25px !important;
+
+    }
+
+    #order .slick-dots {
+        left: 50% !important;
+        bottom: -40px !important;
+    }
+
+    #booking {
+        padding: 0 !important;
+    }
+
+    .reservation_box {
+        padding: 0 60px;
+    }
+
+    .form-control {
+        height: 40px !important;
+    }
+
+    .form_gap {
+        margin-bottom: 16px !important;
+    }
+
+    .find_btn {
+        margin-bottom: 30px;
+    }
+
+    .footer_right {
+        text-align: center !important;
+    }
+
+    .footer_left {
+        text-align: center !important;
+        margin-bottom: 30px;
+    }
+
+    .contact_right {
+        margin-top: 60px !important;
+    }
+
+}
+
+@media (min-width: 769px) and (max-width: 991px) {
+
+    ol,
+    ul {
+        padding-left: 0px !important;
+    }
+
+    .navbar .menu_bar {
+        top: -100%;
+        width: 100%;
+        text-align: center;
+        transition: linear 0.5s;
+    }
+
+    .menu_left {
+        margin-bottom: 20px;
+    }
+
+    .martop {
+        margin-top: 0 !important;
+    }
+
+    .order_text {
+        margin-bottom: 30px;
+    }
+
+    .order_text a {
+        margin-top: 0 !important;
+    }
+
+    .burger_middle {
+        margin: 0 auto;
+    }
+
+    .slide_text h2 {
+        margin: 10px 0 !important;
+        font-size: 25px;
+    }
+
+    .slide_text p {
+        font-size: 16px !important;
+        line-height: 25px !important;
+
+    }
+
+    #order .slick-dots {
+        left: 50% !important;
+        bottom: -40px !important;
+    }
+
+    #booking {
+        padding: 0 !important;
+    }
+
+    .reservation_box {
+        padding: 0 60px;
+    }
+
+    .form-control {
+        height: 40px !important;
+    }
+
+    .form_gap {
+        margin-bottom: 16px !important;
+    }
+
+    .find_btn {
+        margin-bottom: 30px;
+    }
+
+    .footer_right {
+        text-align: center !important;
+    }
+
+    .footer_left {
+        text-align: center !important;
+        margin-bottom: 30px;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+/* 
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... } */
